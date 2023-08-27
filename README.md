@@ -1,1 +1,2 @@
-### Public repo for comments @ mareksiekierski.com
+### mareksiekierski.com
+Comment/discussion repo
